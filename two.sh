@@ -1,5 +1,5 @@
 echo "Student1"
-echo "Student2"
+echo "Student2 is okay"
 echo "Student3"
 echo "Student4"
 echo "Student5"
